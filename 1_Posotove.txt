@@ -1,0 +1,124 @@
+<lora:noribsXL_001_4:2>
+1girl, solo, (loli:1.6), very cute and beautifuly, 
+white cat ears, white cat tail, { brown | light brown | gold | blonde | white | light blue } hair,
+
+{
+1::
+nude,
+(very small light pink nipples:0.8),
+(cleft of venus:0.8), 
+nsfw, 
+white lace long gloves,
+white thighhighs, 
+
+|
+3::
+white panties,
+white bra,
+(cameltoe:0.39),
+white long gloves,
+white thighhighs, 
+
+|
+3::
+white bikini,
+bra, 
+(cameltoe:0.39),
+white long gloves,
+white thighhighs, 
+
+|
+1::
+white micro bikini,
+(cameltoe:0.39),
+white long gloves,
+white thighhighs, 
+
+|
+5::
+white leotard,
+(cameltoe:0.39),
+white long gloves,
+white thighhighs, 
+
+|
+5::
+white school swimsuit,
+(cameltoe:0.5),
+white thighhighs, 
+
+|
+5::
+white lingerie,
+(cameltoe:0.39),
+white long gloves,
+white thighhighs, 
+
+}
+
+
+{
+    10::(standing:0.5), {  
+                            10::
+                            |
+                            10::(legs apart:0.875),
+                        }
+                        {
+                            1::
+                            |
+                            1::{1-2$$
+                                1::hand in own hair,
+                                |
+                                1::hand on own hip,
+                                |
+                                1::standard pose,
+                                |
+                                1:: {hands | arms} up,
+                                |
+                                1::arms at sides,
+                                |
+                                1::arms behind back,
+                                |
+                                1::hand on own cheek,
+                                |
+                                1::hand on chest,
+                                |
+                                1::open arms,
+                                |
+                                1::w arms,
+                            }
+                        }
+                        {
+                            5::
+                            |
+                            1::(leaning to the side:0.8),
+                        }
+    |
+    10::sitting, spread legs, { 
+                                10::
+                                |
+                                10::{ 3::knee up, | 1::(leg up:0.85), }
+                                |
+                                10::{ 3::knees up, | 1::legs up, }
+                             }
+                             {
+                                10::
+                                |
+                                10::holding leg, grabbing leg,
+                             }
+                             (cleft of venus:0.3), tail under hip,
+    |
+    10::(standing split:0.8), (cleft of venus:0.7) (head out of frame:1.7), 
+    |
+    10::on back, (head out of frame:1.7),
+    |
+    10::on stomach, (head out of frame:1.7),
+    |
+    10::on side, (head out of frame:1.7),
+    |
+    10::( dynamic pose:0.3 )
+}
+
+(smile:0.3), 
+
+top of head out of frame, 
