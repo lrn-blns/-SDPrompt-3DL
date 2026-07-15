@@ -1,6 +1,9 @@
 <lora:noribsXL_001_4:2>
 1girl, solo, (loli:1.6), very cute and beautifuly, 
-white cat ears, white cat tail, { brown | light brown | gold | blonde | white | light blue } hair,
+white cat tail, { 3::brown | 3::light brown | 3::gold | 3::blonde | 3::white | 1::light blue | 1::black } hair,
+
+{ 10:: | 2::headdress, }
+{ 10:: | 1::short twintails, }
 
 {
 1::
@@ -119,6 +122,7 @@ white thighhighs,
     10::( dynamic pose:0.3 )
 }
 
-(smile:0.3), 
+(light smile:0.75), 
 
-top of head out of frame, 
+(eyes out of frame:1.5),
+visible mouth,
